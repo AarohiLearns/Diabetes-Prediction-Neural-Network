@@ -1,6 +1,6 @@
 # 🏥 Diabetes Prediction Using Neural Networks
 
-A binary classification model to predict diabetes in patients using clinical features, built using TensorFlow and Keras.
+A binary classification model to predict diabetes in patients using clinical features, built using TensorFlow.
 
 ---
 
@@ -133,7 +133,7 @@ Accuracy + Confusion Matrix
 ```
 Diabetes-Prediction/
 │
-├── DNNLCA1PROJECT.ipynb   ← Main Colab notebook
+├── Diabetes Prediction.ipynb   ← Main Colab notebook
 ├── diabetes.csv           ← Dataset
 └── README.md
 ```
